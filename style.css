@@ -31,3 +31,13 @@ h2 {
   margin: 0px;
   padding: 5px;
 }
+
+#your-name h2 {
+  color: rgb(124, 28, 148);
+}
+
+#course-image {
+  width: 300px;
+  align-items: center;
+  align-content: center;
+}
